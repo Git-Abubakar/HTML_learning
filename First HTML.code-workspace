@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "First HTML"
+		},
+		{
+			"path": "Practice of HTML"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Practice of HTML"
+	}
+}
